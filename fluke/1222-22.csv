@@ -1,0 +1,3 @@
+date,compressor_code,phase_a_amps,phase_b_amps,notes
+12/20/25,cc3c0282a7af,14.2,14.1,Normal operation
+12/20/25,6f1b1fff2f6a,18.5,12.2,Unbalanced load detected
